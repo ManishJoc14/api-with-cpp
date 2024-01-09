@@ -1,0 +1,3 @@
+C:/Users/manis/OneDrive/Desktop/CURLLIBTEST/CMakeFiles/a.dir
+C:/Users/manis/OneDrive/Desktop/CURLLIBTEST/CMakeFiles/edit_cache.dir
+C:/Users/manis/OneDrive/Desktop/CURLLIBTEST/CMakeFiles/rebuild_cache.dir
